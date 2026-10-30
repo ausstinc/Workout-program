@@ -1,0 +1,6 @@
+__pycache__/
+*.xlsx
+src/program.json
+private/
+dist/
+*.zip

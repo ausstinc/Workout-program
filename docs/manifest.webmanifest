@@ -1,0 +1,27 @@
+{
+ "name": "Min-Max Log",
+ "short_name": "Min-Max",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#f2f3ee",
+ "theme_color": "#77856b",
+ "icons": [
+  {
+   "src": "icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
